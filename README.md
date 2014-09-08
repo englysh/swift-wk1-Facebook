@@ -10,3 +10,4 @@ Did all the requirement except the bonus below.
 In the story detail view, tapping in the text field should bring up the keyboard and animate the text field above the keyboard.
 Tapping the comment button from the home feed should push the story detail view and automatically select the text field.)
 
+Please see animated gif, above (don't know how to attach it to here :()
